@@ -2,9 +2,9 @@
 
 function hello(){
 
-  console.log('Hello World');
+  console.log('Hello Node');
 
-  return 'Hello World';
+  return 'Hello Node';
 
 }
 
